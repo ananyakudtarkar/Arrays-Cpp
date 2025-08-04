@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Search element in Array.
+// Count elements in Array if elemt is present.
 
 int main() {
     char arr[10] = {'a', 'b', 'c', 'd', 'e', 'a', 'g', 'a','n','c'};

@@ -32,7 +32,7 @@ Multi-Dimensional Array: int tensor[2][3][4];
 2. Can only hold elements of the same type
 
 ### ALGORITHMS:
-**1. To find sum and average of elements in an array:**
+**1. To find sum and average of elements in an array:**<br>
 Step 1: Start<br>
 Step 2: Initialize sum ← 0<br>
 Step 3: Input the value of n (number of elements in the array)<br>
@@ -45,7 +45,7 @@ Step 6: Compute average: <br>
 Step 7: Output sum and average <br>
 Step 8: Stop <br>
 
-**2. Search an element in an array (linear search algorithm):**
+**2. Search an element in an array (linear search algorithm):**<br>
 Step 1: Start<br>
 Step 2:Input the number of elements n<br>
 Step 3: Declare an array A of size n<br>
@@ -62,7 +62,7 @@ Step 8: If found == false<br>
         • Output "Element not found"<br>
 Step 9: Stop<br>
 
-**3. Find minimum and maximum elements in an array:**
+**3. Find minimum and maximum elements in an array:**<br>
 Step 1: Start<br>
 Step 2: Input the number of elements n<br>
 Step 3: Declare an array A of size n<br>
@@ -77,7 +77,7 @@ Step 6: For i ← 1 to n - 1<br>
 Step 7: Output min and max<br>
 Step 8: Stop<br>
 
-**4. Reverse the elements of an array:**
+**4. Reverse the elements of an array:**<br>
 Step 1: Start<br>
 Step 2: Input the number of elements n<br>
 Step 3: Declare an array A of size n<br>

@@ -33,17 +33,17 @@ Limitations:
 
 ALGORITHMS:
 1. To find sum and average of elements in an array:
-Step 1: Start
-Step 2: Initialize sum ← 0
-Step 3: Input the value of n (number of elements in the array)
-Step 4: Declare an array A of size n
-Step 5: For i ← 0 to n - 1
-        a. Read A[i]
-        b. Add A[i] to sum
-Step 6: Compute average:
-        average ← sum / n
-Step 7: Output sum and average
-Step 8: Stop
+Step 1: Start<br>
+Step 2: Initialize sum ← 0<br>
+Step 3: Input the value of n (number of elements in the array)<br>
+Step 4: Declare an array A of size n<br>
+Step 5: For i ← 0 to n - 1<br>
+        a. Read A[i]<br>
+        b. Add A[i] to sum<br>
+Step 6: Compute average: <br>
+        average ← sum / n <br> 
+Step 7: Output sum and average <br>
+Step 8: Stop <br>
 
 2. Search an element in an array (linear search algorithm):
 Step 1: Start
